@@ -1,0 +1,19 @@
+div{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center; 
+}
+
+hr{
+    color:aqua;
+}
+div h1{
+border-radius: 15px;
+padding:50px 100px;
+background-color: black;
+color: aqua;
+font-family: 'Times New Roman', Times, serif;
+}
+div p{
+    margin-top: 35px;
+}
