@@ -18,6 +18,10 @@ div p{
     margin-top: 35px;
     margin-left: 20px;
     margin-right: 20px;
+    margin-bottom:30px;
     line-height: 40px;
     text-align: justify;
+}
+ol{
+    margin-top:50px;
 }
